@@ -12,3 +12,5 @@ knitr::opts_chunk$set(echo = TRUE)
 ## RStudio Github Connection Test File
 
 Just some text here.
+
+Some more text here (Adam K)
